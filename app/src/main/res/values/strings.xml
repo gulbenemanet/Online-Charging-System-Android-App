@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EvrenCell</string>
+    <string-array name="tariff">
+        <item>tarif1</item>
+        <item>tarif2</item>
+        <item>tarif3</item>
+        <item>tarif4</item>
+    </string-array>
+</resources>
